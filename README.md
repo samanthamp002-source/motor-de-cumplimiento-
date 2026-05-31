@@ -1,4 +1,4 @@
-# motor-de-cumplimiento- 
+
 # Motor de Cumplimiento Normativo para Guías de Estadía Offline
 ### División de Ingeniería y Tecnologías — Universidad de la Sierra
 
